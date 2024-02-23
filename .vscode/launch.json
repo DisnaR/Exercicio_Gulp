@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Launch in Edge",
+            "url": "file:///C:/Users/disna/Ebac/Exercício_Gulp/index.html", // Caminho atualizado para o arquivo HTML
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
